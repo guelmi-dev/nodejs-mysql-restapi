@@ -1,0 +1,9 @@
+
+RETOMAR HORA 1:50
+
+https://www.youtube.com/watch?v=3dSkc-DIM74&t=127s
+
+git init
+git add .
+git commit -m "mi primer commit"
+
