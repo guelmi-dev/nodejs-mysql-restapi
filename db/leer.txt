@@ -1,9 +1,18 @@
 
-RETOMAR HORA 1:50
 
+LINK
+-----
 https://www.youtube.com/watch?v=3dSkc-DIM74&t=127s
+
+GIT Y GITHUB
+------------
+git config --global user.name "Miguel Carrizo"
+git config --global user.email guelmidev@gmail.com
+git config --global --list
 
 git init
 git add .
 git commit -m "mi primer commit"
-
+git branch -M main
+git remote add origin https://github.com/guelmi-dev/nodejs-mysql-restapi.git
+git push -u origin main
